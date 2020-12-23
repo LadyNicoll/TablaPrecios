@@ -1,0 +1,44 @@
+h1{
+    color: floralwhite;
+    text-align: center;
+}
+body{
+
+    font-family: 'Archivo Narrow', sans-serif;
+    background-color: rgb(87, 11, 141);
+}
+.Pagina{
+    margin: 0 auto;
+    width: 90%;
+}
+.flex{
+    display: flex;
+}
+.text-center{
+    text-align: center;
+}
+.columna{
+    background-color: rgb(111, 117, 201);
+    color: black;
+    border: gainsboro;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px rgb(134, 206, 206);
+}
+.Precio{
+    font-size: 25px;
+    color: rgb(33, 74, 199);
+}
+.btn-Precio{
+    background: rgb(151, 135, 240);
+    display: block;
+    padding: 10px;
+    color: gainsboro;
+    text-decoration: none;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+.btn-Precio:hover{
+    background: rgb(76, 66, 219);
+}
